@@ -49,8 +49,8 @@ This project is a contact manager API built using Node.js, Express, MongoDB, and
 
     ```env
     PORT=3000
-    MONGODB_URI=mongodb://localhost:27017/contact_manager
-    JWT_SECRET=your_secret_key
+    MONGODB_URI=mongodb://localhost:27017/contact_manager #its just an example
+    JWT_SECRET=your_secret_key #you can take the variable as you want.
     ```
 
     Make sure to replace `your_secret_key` with a secure secret key for JWT.
