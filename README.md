@@ -1,6 +1,6 @@
 # Contact-Manager-Backend
 It covers different Nodejs, Express, MongoDB &amp; JWT Topics and implementation in one single project. I built a contact manager backend application from scratch and by you will have good understanding of building projects with Express after watching my repository.
-Certainly! Below is a sample README file for your contact manager API project with Node.js, Express, MongoDB, and JWT implementation.
+
 
 ---
 
@@ -75,4 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this README based on your specific project structure and features. Ensure that your documentation is clear, and users can easily set up and test the API.
+
