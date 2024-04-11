@@ -1,5 +1,5 @@
 # Contact-Manager-Backend
-It covers different Nodejs, Express, MongoDB &amp; JWT Topics and implementation in one single project. I will be build a contact manager backend application from scratch and by end of this crash course you will have good understanding of building projects with Express.
+It covers different Nodejs, Express, MongoDB &amp; JWT Topics and implementation in one single project. I built a contact manager backend application from scratch and by you will have good understanding of building projects with Express after watching my repository.
 Certainly! Below is a sample README file for your contact manager API project with Node.js, Express, MongoDB, and JWT implementation.
 
 ---
